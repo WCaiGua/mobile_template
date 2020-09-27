@@ -1,4 +1,4 @@
-# book_shipping_space
+# mobile_template
 
 ## Project setup
 ```
